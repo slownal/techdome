@@ -1,4 +1,4 @@
-<h1>**Techdome assignment- News Analysis**</h1>
+<h2>Techdome assignment- News Analysis</h2>
 
 This system is designed to help users understand news articles better by performing three key analyses: cleaning up articles, checking the mood, and finding connections. It provides a unified platform where users can input news articles and receive a mood rating, short summary, and insights into common themes across multiple articles.
 
