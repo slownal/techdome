@@ -1,4 +1,4 @@
-**News Analysis System Readme**
+**Techdome assignment- News Analysis**
 
 This system is designed to help users understand news articles better by performing three key analyses: cleaning up articles, checking the mood, and finding connections. It provides a unified platform where users can input news articles and receive a mood rating, short summary, and insights into common themes across multiple articles.
 
